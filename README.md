@@ -12,7 +12,7 @@
 
 I have been creating Minecraft mods since I am 11 years of age. They range from smaller utility mods to sophisticated magical systems. The corresponding CurseForge page is linked in each repository. Please refer to those for a more accurate description.
 
-You can also see an overview on my CurseForge page: https://legacy.curseforge.com/members/cas_ual_ty/projects
+You can also see an overview on my CurseForge page: https://curseforge.com/members/cas_ual_ty/projects
 
 ### Spells & Shields
 Vanilla+ style magic extension that adds mana and spell trees. Fully data driven.  
