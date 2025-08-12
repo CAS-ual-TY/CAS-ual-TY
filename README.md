@@ -21,17 +21,50 @@ https://github.com/CAS-ual-TY/DuplicateEntityUUIDFix
 The Ygo Dueling Mod for Minecraft aims to reflect the real life TCG experience in a 3D open world game by not only adding the cards but also the packs and their pull ratios to the game.
 https://github.com/CAS-ual-TY/YgoDuelingMod
 
+#### Gun Customization: Infinity
+Tons of guns, attachments and combinations.
+https://github.com/CAS-ual-TY/GunCus
+
 #### Extra Trades
 Adding some useful trades for vanilla items.
 https://github.com/CAS-ual-TY/Extra-Trades
+
+#### All Enchantments for Trade
+Makes villagers sell all vanilla and mod enchantments.
+https://github.com/CAS-ual-TY/AllEnchantmentsForTrade
 
 #### PBOSB - Projectiles Bounce Off Slime Blocks
 Makes all projectiles (eg. Arrows, Tridents, ...) bounce off slime blocks.
 https://github.com/CAS-ual-TY/ProjectilesBounceOffSlimeBlocks
 
 #### The Floo \[Previously known as: Quorona]
-wip
+Highly infectious potion effect with mild symptoms.
+https://github.com/CAS-ual-TY/Quorona
 
-#### Gun Customization: Infinity
-Tons of guns, attachments and combinations.
-https://github.com/CAS-ual-TY/GunCus
+#### Extended Armour
+Allows you to dye armor!
+https://github.com/CAS-ual-TY/ExtendedArmor
+
+#### CAS' Extra Potions
+Makes almost all Minecraft effects available for brewing and adds new high-risk high-reward trade-off potions.
+https://github.com/CAS-ual-TY/Extra-Potions
+
+#### YEETem Potions
+Throw the potions, don't just drop them!
+https://github.com/CAS-ual-TY/YEETem-Potions
+
+#### I Need Them Ores
+Generate the Ores now, use them in your Tech Mods when they are updated.
+https://github.com/CAS-ual-TY/INeedThemOres
+
+#### Beacon Chunkloaders
+Beacons are Chunk Loaders!
+https://github.com/CAS-ual-TY/BeaconChunkloaders
+
+#### Visibilis
+Visual Coding in Minecraft
+https://github.com/CAS-ual-TY/Visibilis
+
+#### VRobot
+Visually Programmable Mining and Building Robots.
+https://github.com/CAS-ual-TY/VRobot
