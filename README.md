@@ -10,7 +10,7 @@
 
 ## Minecraft Mods
 
-I have been creating Minecraft mods since I am 11 years of age. They range from smaller utility mods to sophisticated magical systems. The corresponding CurseForge page is linked in each repository. Please refer to those for a more accurate description.
+I have been creating Minecraft mods since I am 11 years of age. They range from smaller utility mods to sophisticated magical systems and have been downloaded more than 25 million times at the time of writing. The corresponding CurseForge page is linked in each repository. Please refer to those for a more accurate description.
 
 You can also see an overview on my CurseForge page: https://curseforge.com/members/cas_ual_ty/projects
 
