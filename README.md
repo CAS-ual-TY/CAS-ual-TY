@@ -77,27 +77,27 @@ https://github.com/CAS-ual-TY/VRobot
 ## Academic Projects
 
 ### selfie
-I am a Big Contributor of the selfie Project at the Department of Computer Sciences of the University of Salzburg in Austria.
+I am a Big Contributor of the selfie Project at the Department of Computer Sciences of the University of Salzburg in Austria.  
 https://github.com/cksystemsteaching/selfie
 
 ### CAV-CTL-MC
-A simple CTL model checker written in go that represents an immediate theory conversion into practice.
+A simple CTL model checker written in go that represents an immediate theory conversion into practice.  
 https://github.com/CAS-ual-TY/CAV-CTL-MC
 
 ### Tiny-PRAM
-A simulation of a Parallel Random Access Machine together with an implementation of Cole's Parallel Merge Sort algorithm.
+A simulation of a Parallel Random Access Machine together with an implementation of Cole's Parallel Merge Sort algorithm.  
 https://github.com/CAS-ual-TY/Tiny-PRAM
 
 ### plus-board-game-framework
-A boardgame engine written in Java based solely on OpenGL together with an implementation of Ludo (DE: Mensch ärgere dich nicht!). Supports advanced GUIs together with animations and provides easy multiplayer capabilities.
+A boardgame engine written in Java based solely on OpenGL together with an implementation of Ludo (DE: Mensch ärgere dich nicht!). Supports advanced GUIs together with animations and provides easy multiplayer capabilities.  
 https://github.com/CAS-ual-TY/plus-board-game-framework
 
 ## Public go Packages
 
 ### goset
-Generic set type.
+Generic set type.  
 https://github.com/CAS-ual-TY/goset
 
 ### simple_go_cron
-cron parsing and checking.
+cron parsing and checking.  
 https://github.com/CAS-ual-TY/simple_go_cron
