@@ -76,7 +76,7 @@ https://github.com/CAS-ual-TY/VRobot
 ## Academic Projects
 
 ### selfie
-I am a Big Contributor of the selfie Project at the Department of Computer Sciences of the University of Salzburg in Austria.  
+I am a big contributor of the selfie project at the department of computer sciences of the University of Salzburg in Austria.  
 https://github.com/cksystemsteaching/selfie
 
 ### CAV-CTL-MC
