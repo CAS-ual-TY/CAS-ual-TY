@@ -1,7 +1,5 @@
-# Luis Thiele's GitHub Portfolio
-## Also known as "CAS_ual_TY"
-
-# Projects
+# GitHub Portfolio
+## List of Repositories
 
 ## Table of Contents
 - [Minecraft Mods](#minecraft-mods)
