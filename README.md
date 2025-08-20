@@ -98,7 +98,8 @@ I am a contributor for the Project Reality modification for Battlefield 2. This 
 ### PR Stats
 
 Prototype for player stats tracking written in Go. Horrendous code because this project is made while I was still learning Go. The website is automated and completely functional in its own botched way: GitHub actions auto runner runs every 24h, downloads all previously unseen 2D replay files from all servers, and parses each file for its information. All data is saved in JSON (1 file per player - yes, you read that right) and then template HTML files are filled (another file per player - yes, you read that right, again). The whole thing is committed and pushed by the runner and auto deployed to pages. A very fun but cursed way of accomplishing a prototype which came with its own challenges.  
-https://cas-ual-ty.github.io/PR-Stats/ (Source code is private - players could fork it and create a "negative" stats version, like a leaderboard of most griefing)
+*Source code is private - players could fork it and create a "negative" stats version, like a leaderboard of most griefing*  
+https://cas-ual-ty.github.io/PR-Stats/
 
 ### PR Asset Index
 
