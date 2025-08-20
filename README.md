@@ -7,6 +7,7 @@
 - [Minecraft Mods](#minecraft-mods)
 - [Academic Projects](#academic-projects)
 - [Public go Packages](#public-go-packages)
+- [Project Reality](#project-reality)
 
 ## Minecraft Mods
 
@@ -91,6 +92,20 @@ https://github.com/CAS-ual-TY/Tiny-PRAM
 ### plus-board-game-framework
 A boardgame engine written in Java based solely on OpenGL together with an implementation of Ludo (DE: Mensch ärgere dich nicht!). Supports advanced GUIs together with animations and provides easy multiplayer capabilities.  
 https://github.com/CAS-ual-TY/plus-board-game-framework
+
+## Project Reality
+
+I am a contributor for the Project Reality modification for Battlefield 2. This includes coding and 2D art. https://www.realitymod.com/
+
+### PR Stats
+
+Prototype for player stats tracking written in Go. Horrendous code because this project is made while I was still learning Go. The website is automated and completely functional in its own botched way: GitHub actions auto runner runs every 24h, downloads all previously unseen 2D replay files from all servers, and parses each file for its information. All data is saved in JSON (1 file per player - yes, you read that right) and then template HTML files are filled (another file per player - yes, you read that right, again). The whole thing is committed and pushed by the runner and auto deployed to pages. A very fun but cursed way of accomplishing a prototype which came with its own challenges.  
+https://cas-ual-ty.github.io/PR-Stats/ (Source code is private - players could fork it and create a "negative" stats version, like a leaderboard of most griefing)
+
+### PR Asset Index
+
+Parses game files and categorizes assets (vehicles). Used for our community server and initially for 2D art development.  
+https://github.com/CAS-ual-TY/PR-Assets-Indexes
 
 ## Public go Packages
 
