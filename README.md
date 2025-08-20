@@ -1,5 +1,5 @@
 # GitHub Portfolio
-## List of Repositories
+List of Repositories
 
 ## Table of Contents
 - [Minecraft Mods](#minecraft-mods)
